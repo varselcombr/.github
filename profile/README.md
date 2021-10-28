@@ -1,4 +1,5 @@
-![Captura de tela 2021-10-22 181701](https://user-images.githubusercontent.com/85264247/138524158-c570b064-44d9-4658-a8dc-6b1d7647731a.png)
+![image](https://user-images.githubusercontent.com/85264247/139340580-e17ba8ec-c2ac-4370-aaee-8f1fdeaf8e8c.png)
+
 
 
 # Agilidade & Qualidade!
