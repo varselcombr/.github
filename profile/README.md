@@ -2,7 +2,7 @@
 
 
 # Agilidade & Qualidade!
-Aqui sua imaginação se torna realidade. Projetos, sonos são o que movem a grande engrenagem da Varsel. Venha crescer e se tornar a melhor em sua área.
+Aqui sua imaginação se torna realidade. Projetos, sonhos são o que movem a grande engrenagem da Varsel. Venha crescer e se tornar a melhor em sua área.
 
 ### Oque nós fazemos ?
 Nosso time desenvolve & ajuda empresas a atingirem seu potencial máximo. Como? Nós da Varsel criamos toda a solução web que a sua empresa precisa. Aplicativos web, mobile & desktop.
